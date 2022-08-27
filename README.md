@@ -1,15 +1,17 @@
 # remote-dev-jobs
 Remote Developer Jobs
 
+PR's welcome.
+
 |Name                        |Website                                           |Description                                       |
 |----------------------------|--------------------------------------------------|--------------------------------------------------|
 |99Designs                   |https://99designs.com                             |Expert Designers Community serving Any industry, Any business. Design Logos, websites, and yes, even tattoos - there are so many (90+) categories.|
-|AngelList                   |https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D|Best Startups Jobs. Full-Time, Contract, Intership and jobs that Will Sponsor Visa.|
+|AngelList                   |https://angel.co/|Best Startups Jobs. Full-Time, Contract, Intership and jobs that Will Sponsor Visa.|
 |Authentic Jobs              |https://authenticjobs.com/#remote=true            |The leading job board for designers, hackers, and creative pros.|
 |Stack Overflow              |https://stackoverflow.com/jobs?sort=i&l=Remote&d=20&u=Km|Developers first. High-quality jobs in trusted companies. Work from anywhere Jobs in 100+ countries, plus remote & visa sponsorship options.|
 |Codeable                    |https://codeable.io/                              |300+ skilled WordPress Developers based on US and Europe selected through a rigorous testing process where only 2% succeed.|
 |Crew.co                     |https://crew.co/                                  |Network of hand-picked freelance developers and designers. Crew freelancers have also worked for companies like Apple, Google, Uber and Dropbox.|
-|Dribbble Jobs               |https://dribbble.com/jobs?utf8=%E2%9C%93&anywhere=true&location=Anywhere|Jobs for Designers. Dribbble is where designers get inspired and hired. Link will take you to the Remote Design Jobs.|
+|Dribbble Jobs               |https://dribbble.com/jobs|Jobs for Designers. Dribbble is where designers get inspired and hired. Link will take you to the Remote Design Jobs.|
 |FindBacon                   |https://findbacon.com/jobs/remote                 |A single location for designers and developers to find only the highest quality job posts from around the web.|
 |FlexJobs                    |http://flexjobs.com                               |Access best remote and flexible jobs—part-time to full-time, entry-level to executive, in 50+ categories.|
 |Freelancer                  |http://freelancer.com                             |Employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.|
